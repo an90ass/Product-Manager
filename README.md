@@ -11,9 +11,6 @@ A Flutter-based mobile application for managing a list of products with support 
 - **SQLite Integration**: Data is stored persistently on the device using SQLite.
 - **User-Friendly UI**: Simple and intuitive interface for easy navigation.
 
-## Screenshots
-(Add screenshots of your app here if available)
-
 ## Getting Started
 
 ### Prerequisites

@@ -33,7 +33,7 @@ A Flutter-based mobile application for managing a list of products with support 
 2. Navigate to the project directory:
 
     ```bash
-    cd product_manager_app
+    cd product_manager
     ```
 
 3. Install the required dependencies:

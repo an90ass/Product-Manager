@@ -1,0 +1,27 @@
+name: product_manager
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.2.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  sqflite: ^2.3.2
+  path:
+
+
+dev_dependencies:
+  flutter_launcher_icons: ^0.9.2
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+flutter_icons:
+    android: true
+    ios: true
+    image_path: "assets/icon/product_maneger.png"
+
+flutter:
+  uses-material-design: true
